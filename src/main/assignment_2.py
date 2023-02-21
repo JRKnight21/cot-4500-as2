@@ -206,4 +206,4 @@ if __name__ == "__main__":
 
     print(A_matrix, end='\n\n')
     print(b_vector, end='\n\n')
-    print(x_vector)
+    print(x_vector, end='\n\n')
