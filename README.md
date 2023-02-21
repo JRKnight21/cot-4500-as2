@@ -2,12 +2,12 @@
 
 Joanna Romano
 
-Assignment 1
+Assignment 2
 
 The current Python version that is suggested to run this file is 3.11.1 64bit
 
 The requirements.txt file includes the required packages to run the file
-and uses numpy version 1.24.1 and decimal
+and uses numpy version 1.24.1
 
 # Required libaries be added to the requirements text by running 
     $ pip freeze > requirements.txt
